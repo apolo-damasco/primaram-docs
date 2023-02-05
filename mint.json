@@ -23,9 +23,9 @@
   },
   "anchors": [
     {
-      "name": "API Reference",
+      "name": "Referencia API",
       "icon": "rectangle-terminal",
-      "url": "api-reference"
+      "url": "api-referencia"
     },
     {
       "name": "Changelog",
